@@ -1,0 +1,5 @@
+stream/.vs
+stream/Debug
+*.sln
+*.vcxproj*
+
